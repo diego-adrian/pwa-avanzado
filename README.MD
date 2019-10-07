@@ -1,9 +1,9 @@
-# Progressive Web Apps - Complete Guide
-This source code is part of Maximilian Schwarzmüller's "Progressive Web Apps - Complete Guide" course on udemy.com.
+# Aplicaciones web progresivas
+Proyecto en el cual se veran APIS de HTML5 en uso como ser la cámara, geolocalización, etc.
 
-# How to Use
-You need [Node.js](https://nodejs.org) installed on your machine. Simply download the installer from [nodejs.org](https://nodejs.org) and go through the installation steps.
+# Como usarlo
+Necesitar tener instalado en tu máquina [Node.js](https://nodejs.org). Puedes descargar desde [nodejs.org](https://nodejs.org) y seguir las instrucciones de instalación.
 
-Once Node.js is installed, open your command prompt or terminal and **navigate into this project folder**. There, run `npm install` to install all required dependencies.
+Una vez instalado nodejs puedes **navegar donde estes clonando este proyecto** abrir una terminal y ejecutar `npm install` para instalar todas las dependencias.
 
-Finally, run `npm start` to start the development server and visit [localhost:8080](http://localhost:8080) to see the running application.
+Finalmente, ejecutar `npm start` para iniciar la aplicación el cual lo puedes ver en [localhost:8080](http://localhost:8080).
