@@ -1,5 +1,5 @@
 # Aplicaciones web progresivas
-Proyecto en el cual se veran APIS de HTML5 en uso como ser la cámara, geolocalización, etc.
+Proyecto en el cual se veran APIS de HTML5 en uso como ser la cámara, geolocalización, etc combinados con las PWA.
 
 # Como usarlo
 Necesitar tener instalado en tu máquina [Node.js](https://nodejs.org). Puedes descargar desde [nodejs.org](https://nodejs.org) y seguir las instrucciones de instalación.
